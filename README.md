@@ -1,7 +1,7 @@
 # PowerBI Portfolio
 
 [![GitHub Stars](https://img.shields.io/github/stars/jordanhoare/powerbi-collection.svg)](https://github.com/jordanhoare/powerbi-collection/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/jordanhoare/powerbi-collection.svg)](https://github.com/jordanhoare/powerbi-collection/issues) [![Current Version](https://img.shields.io/badge/version-0.0.2-green.svg)](https://github.com/jordanhoare/powerbi-collection) 
-
+ 
 I have chosen to maintain my visualisation portfolio alongside my code repositories.  Below are demonstrations of the dashboards I have built.  The folders above contain all unprocessed `.CSV` and the accompanying `.PBIX` files. 
 
 
