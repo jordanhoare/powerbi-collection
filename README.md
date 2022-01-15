@@ -1,12 +1,11 @@
-## PowerBI Portfolio
+# PowerBI Portfolio
 
 [![GitHub Stars](https://img.shields.io/github/stars/jordanhoare/powerbi-collection.svg)](https://github.com/jordanhoare/powerbi-collection/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/jordanhoare/powerbi-collection.svg)](https://github.com/jordanhoare/powerbi-collection/issues) [![Current Version](https://img.shields.io/badge/version-0.0.2-green.svg)](https://github.com/jordanhoare/powerbi-collection) 
 
-I have chose to maintain my visualisation portfolio alongside my code repositories.  Below are demonstrations of the dashboards I have built.  The folders above contain all unprocessed raw data and the accompanying `.PBIX` file. 
+I have chose to maintain my visualisation portfolio alongside my code repositories.  Below are demonstrations of the dashboards I have built.  The folders above contain all unprocessed `.CSV` and the accompanying `.PBIX` files. 
 
 
-
-## Dashboard #1
+### Dashboard #1
 ![Alt Text](https://media4.giphy.com/media/B5qcQD6l88wcPoRSxB/giphy.gif)
 
 #### USA Online Retailer (4 year analysis and report)
@@ -14,12 +13,6 @@ A comprehensive (4 page) dashboard/report that displays trends in sales, order p
 
 
 
-
-
-##
-
-## Additional Information
-Due to the ongoing costs of maintaining a PowerBI subscription, I have chose to maintain my visualisation portfolio as demostrations on my Github.  The folders above contain all unprocessed raw data and the accompanying `.PBIX` file. 
 
 ## Links
 <p align="center">
